@@ -7,7 +7,6 @@ I specialize in designing backend systems, building responsive frontend applicat
 
 I have strong domain experience in Banking and Healthcare, working on enterprise systems like Digital KYC platforms, transaction processing systems, lending workflows, and supply chain platforms.
 
----
 
 ## Tech Stack
 
@@ -79,7 +78,6 @@ I have strong domain experience in Banking and Healthcare, working on enterprise
 - Grafana
 - CloudWatch
 
----
 
 ## What I Work On
 - Enterprise Microservices Architecture
@@ -93,7 +91,6 @@ I have strong domain experience in Banking and Healthcare, working on enterprise
 - Production Support
 - Performance Optimization
 
----
 
 ## Currently Learning
 - AI Application Development
@@ -107,7 +104,6 @@ I have strong domain experience in Banking and Healthcare, working on enterprise
 - Advanced Kubernetes Patterns
 - Microservices Observability
 
----
 
 ## Core Strengths
 ✔ Backend Engineering  
@@ -121,7 +117,7 @@ I have strong domain experience in Banking and Healthcare, working on enterprise
 ✔ Production Support  
 ✔ System Optimization  
 
----
+
 
 ## Professional Interests
 - Scalable System Design
@@ -131,11 +127,10 @@ I have strong domain experience in Banking and Healthcare, working on enterprise
 - AI-powered Applications
 - Financial Technology
 
----
+
 
 ## Connect With Me
-- LinkedIn: Add your LinkedIn URL here
-- Email: Add your email here
+- LinkedIn: https://www.linkedin.com/in/pavani-k008/
+- Email: codewithpavs@gmail.com
 
----
 ⭐ Always building, learning, and improving.
